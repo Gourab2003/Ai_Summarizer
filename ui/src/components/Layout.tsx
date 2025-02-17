@@ -8,7 +8,7 @@ const Layout: React.FC = () => {
         <>
             <Header />
             <main>
-                <Outlet /> {/* This will render the current page */}
+                <Outlet />
             </main>
             <Footer />
         </>
